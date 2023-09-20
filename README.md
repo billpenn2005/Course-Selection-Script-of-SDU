@@ -1,4 +1,5 @@
 # Course-Selection-Script-of-SDU
+大一计科新生写着玩的<br>
 使用方法：<br>
 程序需使用三个文件:pwd.txt(用于登录),config.txt(计时器配置),course.txt(选课设置)<br>
 <br>
